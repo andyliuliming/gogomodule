@@ -1,8 +1,12 @@
-package mocrprefallinone
+package main
 import (
-	"github.com/andyliuliming/gogomodule/mockoverlaymgrallinone"
+	"github.com/andyliuliming/gogomodule/mockoverlaymgrallinone/client"
 )
 
 func RP() {
-	mockoverlaymgrallinone.ClientFunc()
+	client.ClientFunc()
+}
+
+func main() {
+	RP()
 }
