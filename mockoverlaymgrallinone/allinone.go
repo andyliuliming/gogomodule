@@ -21,7 +21,3 @@ func NewTinyExternal() *tinyexternal.TinyExternal{
 	}
 }
 
-
-func ClientFunc() {
-	NewTinyExternal()
-}
