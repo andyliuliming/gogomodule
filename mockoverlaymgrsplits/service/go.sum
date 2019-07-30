@@ -1,0 +1,6 @@
+github.com/andyliuliming/gogomodule/mockexternals/external1 v0.0.1 h1:TCj7CWyNtzLUhMP3knZjdYj23MzeLfDd0iJqhaSZemY=
+github.com/andyliuliming/gogomodule/mockexternals/external1 v0.0.1/go.mod h1:7SIxqP3VbYYCNAfhrE2ktzkxqaB/nGla+1zToSkId7w=
+github.com/andyliuliming/gogomodule/mockexternals/external2 v0.0.1 h1:Dp4YBxZT1JW5xjkq4XIo8X1OFhpr7eYVvHwHt6GdsFU=
+github.com/andyliuliming/gogomodule/mockexternals/external2 v0.0.1/go.mod h1:Kmjw5hUx4Ns2/Y/oC65Srvb4/Kc9QXJFimIKB3qfUFI=
+github.com/andyliuliming/gogomodule/mockexternals/tinyexternal v0.0.1 h1:JyIuLnytQ5J2i70Zom/pHv0O8g3U9IN12ZHS6OyGKXU=
+github.com/andyliuliming/gogomodule/mockexternals/tinyexternal v0.0.1/go.mod h1:y5rxjwsJ4Dnt5dS+EowI0itq4dcMUX0yLZ/SSDQypFM=
